@@ -14,7 +14,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "zzarcon",
   "license": "MIT",
   "devDependencies": {
     "body-parser": "^1.2.0",
@@ -31,7 +31,9 @@
     "glob": "^4.0.5"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "loading",
+    "android"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
